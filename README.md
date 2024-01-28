@@ -19,7 +19,7 @@ The tools I have worked with are:
 [![MockK](https://img.shields.io/badge/MockK-007396?style=for-the-badge&color=938F99)]()
 [![Mockito](https://img.shields.io/badge/Mockito-007396?style=for-the-badge&color=938F99)]()
 
-Notice that use of the Material 3 pallet? Yeah, I also love UX/UI design.
+Notice the use of the Material 3 palette? Yeah, I also love UX/UI design.
 
 <!--
 **clp3z/clp3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
